@@ -181,7 +181,7 @@ data:
   cursor: "525"
   isAirgap: "false"
   releaseNotes: ""
-  sequence: "0"
+  sequence: "1"
   version: "1660855478"
 kind: ConfigMap
 metadata:
@@ -278,7 +278,7 @@ apiVersion: v1
 data:
   encryptionKeys: W3sibmFtZSI6ImdlbmVyYWwiLCJ2ZXJzaW9uIjoxLCJwcmltYXJ5Ijp0cnVlLCJtYXRlcmlhbCI6IjR1R2gxcTh5MkRZcnlKd3JWTUhzMGtXWEpscXZIV1d0L0tKdU5pMDRlZEk9In1d
   host: Z2l0cG9kc2plLm15c3FsLmRhdGFiYXNlLmF6dXJlLmNvbQ==
-  password: bzY3YW9TcUhGZ2xkRmdTcUJmOWhXK3ZBQWdJPQ==
+  password: OHZ6YjM0MFRucE03ajkrdEY5MGNFbE83cUhzPQ==
   port: MzMwNg==
   username: Z2l0cG9kQGdpdHBvZHNqZQ==
 kind: Secret
@@ -295,7 +295,7 @@ metadata:
 ---
 apiVersion: v1
 data:
-  .dockerconfigjson: eyJhdXRocyI6IHsiZ2l0cG9kc2plLmF6dXJlY3IuaW8iOiB7InVzZXJuYW1lIjogImdpdHBvZHNqZSIsICJwYXNzd29yZCI6ICJNbjFHRVl2NXBaMEN4VTlKbnB0PVEzSHZPaFBLdEdIMiIsICJhdXRoIjogIloybDBjRzlrYzJwbE9rMXVNVWRGV1hZMWNGb3dRM2hWT1VwdWNIUTlVVE5JZGs5b1VFdDBSMGd5In19fQ==
+  .dockerconfigjson: eyJhdXRocyI6IHsiZ2l0cG9kc2plLmF6dXJlY3IuaW8iOiB7InVzZXJuYW1lIjogImdpdHBvZHNqZSIsICJwYXNzd29yZCI6ICJjb0sydVJkazZ6ZElESHVIT2o3NFkyMno0dEcrQU9HbyIsICJhdXRoIjogIloybDBjRzlrYzJwbE9tTnZTekoxVW1Sck5ucGtTVVJJZFVoUGFqYzBXVEl5ZWpSMFJ5dEJUMGR2In19fQ==
 kind: Secret
 metadata:
   annotations:
@@ -343,7 +343,7 @@ type: helm.sh/release.v1
 ---
 apiVersion: v1
 data:
-  accountKey: cXNtUURvT1VLZjR1TzBQY3I3NE8zNG9uNFUxSWZHbWR0eHE4ZlR1MDVvdmtIK2NickNmTVR6c2VzMEhqVG5mUzdWbGs4dHlzLzdoMitBU3QzQVFKbmc9PQ==
+  accountKey: Yit0ZFdSaFJTUitnb1NiNDM3c2xmd2kzZXR4ZUplZWRvdDJGc2thRWVZTGthK1Vjczh3NEI1UEpwZ200Q3lRcm5va3E5dC9rdys4VitBU3RBZi9LYVE9PQ==
   accountName: Z2l0cG9kc2pl
 kind: Secret
 metadata:
