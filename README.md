@@ -1,5 +1,7 @@
 # Gitpod GitOps
 
+> Since December 2022, Gitpod no longer officially supports self-hosted so this repo is deprecated. It remains as an example of how to work with GitOps on a KOTS/Replicated environment.
+
 Example repo to demonstrate Gitpod GitOps with KOTS
 
 ## Getting started
